@@ -10,3 +10,9 @@ class Calculator
 };
 
 #endif//CALCULATOR_H
+//postavtre_atestaciu_please
+//postavtre_atestaciu_please
+//postavtre_atestaciu_please
+//postavtre_atestaciu_please
+//postavtre_atestaciu_please
+//postavtre_atestaciu_please
